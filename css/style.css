@@ -178,6 +178,10 @@ h1 {
     line-height: 40px;
 }
 
+.second-item {
+    padding-top: 110px;
+}
+
 /* FOURTH SECTION */
 
 
@@ -243,13 +247,40 @@ h1 {
     justify-content: space-between;
 }
 
+.fifth-section-left {
+    width: 50%;
+    text-align: center;
+}
+
+.fifth-section-right {
+    width: 50%;
+    text-align: center;
+}
+
 .fifth-section h2 {
     font-size: 2rem;
     padding-bottom: 40px;
 }
 
-h3 {
+.fifth-section h3 {
     font-size: 1.6rem;
     margin-bottom: 50px;
 }
 
+.fifth-section h4 {
+    font-size: 1.5rem;
+    padding-bottom: 50px;
+}
+
+/* FOOTER */
+
+.footer {
+    background-color: #23272a;
+    text-align: center;
+}
+
+.footer p {
+    font-size: 1.5rem;
+    padding: 50px 0;
+    color: white;
+}
